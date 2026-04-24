@@ -48,7 +48,26 @@ npm run dev
 ```
 The app will be available at `http://localhost:5173`.
 
-## 🤖 AI Search Examples
+## 🚀 Deployment (Render)
+
+### 1. Backend (Web Service)
+- **Repo**: `Flipkart_Clone`
+- **Root Directory**: `backend`
+- **Environment**: `Node`
+- **Build Command**: `npm install`
+- **Start Command**: `node server.js`
+- **Env Vars**: 
+    - `OPENROUTER_API_KEY`: Your key.
+    - `PORT`: 5000 (optional, Render provides this).
+
+### 2. Frontend (Static Site)
+- **Repo**: `Flipkart_Clone`
+- **Root Directory**: `frontend`
+- **Build Command**: `npm install && npm run build`
+- **Publish Directory**: `dist`
+- **Env Vars**:
+    - `VITE_API_URL`: The URL of your deployed backend (e.g., `https://your-backend.onrender.com/api`).
+
 Try typing these into the search bar:
 - "best gaming phone under 15000"
 - "blue t-shirt for summer"
