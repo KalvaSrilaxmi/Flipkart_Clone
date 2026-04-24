@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "Adidas Sandals 1",
+    "description": "This is a high-quality Sandals from Adidas. Features include durable build and modern design.",
+    "price": 6996,
+    "category": "Footwear",
+    "image": "https://loremflickr.com/400/400/footwear,sneakers,sandals?lock=1"
+  },
+  {
+    "id": 2,
+    "name": "Bata Sandals 2",
+    "description": "This is a high-quality Sandals from Bata. Features include durable build and modern design.",
+    "price": 47479,
+    "category": "Footwear",
+    "image": "https://loremflickr.com/400/400/footwear,sneakers,sandals?lock=2"
+  },
+  {
+    "id": 3,
+    "name": "Levi's Jeans 3",
+    "description": "This is a high-quality Jeans from Levi's. Features include durable build and modern design.",
+    "price": 2870,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,jeans?lock=3"
+  },
+  {
+    "id": 4,
+    "name": "USPA Jacket 4",
+    "description": "This is a high-quality Jacket from USPA. Features include durable build and modern design.",
+    "price": 14717,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,jacket?lock=4"
+  },
+  {
+    "id": 5,
+    "name": "OnePlus Headphones 5",
+    "description": "This is a high-quality Headphones from OnePlus. Features include durable build and modern design.",
+    "price": 23343,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,headphones?lock=5"
+  },
+  {
+    "id": 6,
+    "name": "Dell Laptop 6",
+    "description": "This is a high-quality Laptop from Dell. Features include durable build and modern design.",
+    "price": 5797,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,computer,laptop?lock=6"
+  },
+  {
+    "id": 7,
+    "name": "USPA Hoodie 7",
+    "description": "This is a high-quality Hoodie from USPA. Features include durable build and modern design.",
+    "price": 22105,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,hoodie?lock=7"
+  },
+  {
+    "id": 8,
+    "name": "Logitech Headphones 8",
+    "description": "This is a high-quality Headphones from Logitech. Features include durable build and modern design.",
+    "price": 32866,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,headphones?lock=8"
+  },
+  {
+    "id": 9,
+    "name": "Logitech Headphones 9",
+    "description": "This is a high-quality Headphones from Logitech. Features include durable build and modern design.",
+    "price": 71217,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,headphones?lock=9"
+  },
+  {
+    "id": 10,
+    "name": "Sony Headphones 10",
+    "description": "This is a high-quality Headphones from Sony. Features include durable build and modern design.",
+    "price": 10860,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,headphones?lock=10"
+  },
+  {
+    "id": 11,
+    "name": "Adidas Sandals 11",
+    "description": "This is a high-quality Sandals from Adidas. Features include durable build and modern design.",
+    "price": 28392,
+    "category": "Footwear",
+    "image": "https://loremflickr.com/400/400/footwear,sneakers,sandals?lock=11"
+  },
+  {
+    "id": 12,
+    "name": "USPA Jeans 12",
+    "description": "This is a high-quality Jeans from USPA. Features include durable build and modern design.",
+    "price": 74061,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,jeans?lock=12"
+  },
+  {
+    "id": 13,
+    "name": "Bata Sneakers 13",
+    "description": "This is a high-quality Sneakers from Bata. Features include durable build and modern design.",
+    "price": 92805,
+    "category": "Footwear",
+    "image": "https://loremflickr.com/400/400/footwear,sneakers,sneakers?lock=13"
+  },
+  {
+    "id": 14,
+    "name": "Levi's Jeans 14",
+    "description": "This is a high-quality Jeans from Levi's. Features include durable build and modern design.",
+    "price": 33515,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,jeans?lock=14"
+  },
+  {
+    "id": 15,
+    "name": "Apple Smartphone 15",
+    "description": "This is a high-quality Smartphone from Apple. Features include durable build and modern design.",
+    "price": 88525,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,mobile,phone?lock=15"
+  },
+  {
+    "id": 16,
+    "name": "OnePlus Laptop 16",
+    "description": "This is a high-quality Laptop from OnePlus. Features include durable build and modern design.",
+    "price": 77913,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,computer,laptop?lock=16"
+  },
+  {
+    "id": 17,
+    "name": "Nike Sneakers 17",
+    "description": "This is a high-quality Sneakers from Nike. Features include durable build and modern design.",
+    "price": 94368,
+    "category": "Footwear",
+    "image": "https://loremflickr.com/400/400/footwear,sneakers,sneakers?lock=17"
+  },
+  {
+    "id": 18,
+    "name": "Zara Jeans 18",
+    "description": "This is a high-quality Jeans from Zara. Features include durable build and modern design.",
+    "price": 67993,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,jeans?lock=18"
+  },
+  {
+    "id": 19,
+    "name": "Dell Smartwatch 19",
+    "description": "This is a high-quality Smartwatch from Dell. Features include durable build and modern design.",
+    "price": 77346,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,smartwatch?lock=19"
+  },
+  {
+    "id": 20,
+    "name": "Samsung Camera 20",
+    "description": "This is a high-quality Camera from Samsung. Features include durable build and modern design.",
+    "price": 60201,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,camera?lock=20"
+  },
+  {
+    "id": 21,
+    "name": "OnePlus Smartwatch 21",
+    "description": "This is a high-quality Smartwatch from OnePlus. Features include durable build and modern design.",
+    "price": 95909,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,smartwatch?lock=21"
+  },
+  {
+    "id": 22,
+    "name": "Roadster T-Shirt 22",
+    "description": "This is a high-quality T-Shirt from Roadster. Features include durable build and modern design.",
+    "price": 21055,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,t-shirt?lock=22"
+  },
+  {
+    "id": 23,
+    "name": "Logitech Smartwatch 23",
+    "description": "This is a high-quality Smartwatch from Logitech. Features include durable build and modern design.",
+    "price": 72083,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,smartwatch?lock=23"
+  },
+  {
+    "id": 24,
+    "name": "Puma Sneakers 24",
+    "description": "This is a high-quality Sneakers from Puma. Features include durable build and modern design.",
+    "price": 90684,
+    "category": "Footwear",
+    "image": "https://loremflickr.com/400/400/footwear,sneakers,sneakers?lock=24"
+  },
+  {
+    "id": 25,
+    "name": "H&M T-Shirt 25",
+    "description": "This is a high-quality T-Shirt from H&M. Features include durable build and modern design.",
+    "price": 63278,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,t-shirt?lock=25"
+  },
+  {
+    "id": 26,
+    "name": "Puma Formal Shoes 26",
+    "description": "This is a high-quality Formal Shoes from Puma. Features include durable build and modern design.",
+    "price": 36679,
+    "category": "Footwear",
+    "image": "https://loremflickr.com/400/400/footwear,sneakers,business,shoes?lock=26"
+  },
+  {
+    "id": 27,
+    "name": "Sony Camera 27",
+    "description": "This is a high-quality Camera from Sony. Features include durable build and modern design.",
+    "price": 72874,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,camera?lock=27"
+  },
+  {
+    "id": 28,
+    "name": "Roadster Jacket 28",
+    "description": "This is a high-quality Jacket from Roadster. Features include durable build and modern design.",
+    "price": 49908,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,jacket?lock=28"
+  },
+  {
+    "id": 29,
+    "name": "Sony Laptop 29",
+    "description": "This is a high-quality Laptop from Sony. Features include durable build and modern design.",
+    "price": 55047,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,computer,laptop?lock=29"
+  },
+  {
+    "id": 30,
+    "name": "H&M Jeans 30",
+    "description": "This is a high-quality Jeans from H&M. Features include durable build and modern design.",
+    "price": 51146,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,jeans?lock=30"
+  },
+  {
+    "id": 31,
+    "name": "H&M Jacket 31",
+    "description": "This is a high-quality Jacket from H&M. Features include durable build and modern design.",
+    "price": 80588,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,jacket?lock=31"
+  },
+  {
+    "id": 32,
+    "name": "Logitech Laptop 32",
+    "description": "This is a high-quality Laptop from Logitech. Features include durable build and modern design.",
+    "price": 1975,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,computer,laptop?lock=32"
+  },
+  {
+    "id": 33,
+    "name": "Roadster T-Shirt 33",
+    "description": "This is a high-quality T-Shirt from Roadster. Features include durable build and modern design.",
+    "price": 69195,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,t-shirt?lock=33"
+  },
+  {
+    "id": 34,
+    "name": "Apple Smartphone 34",
+    "description": "This is a high-quality Smartphone from Apple. Features include durable build and modern design.",
+    "price": 87784,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,mobile,phone?lock=34"
+  },
+  {
+    "id": 35,
+    "name": "Sony Laptop 35",
+    "description": "This is a high-quality Laptop from Sony. Features include durable build and modern design.",
+    "price": 14889,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,computer,laptop?lock=35"
+  },
+  {
+    "id": 36,
+    "name": "Logitech Camera 36",
+    "description": "This is a high-quality Camera from Logitech. Features include durable build and modern design.",
+    "price": 89197,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,camera?lock=36"
+  },
+  {
+    "id": 37,
+    "name": "Adidas Formal Shoes 37",
+    "description": "This is a high-quality Formal Shoes from Adidas. Features include durable build and modern design.",
+    "price": 83608,
+    "category": "Footwear",
+    "image": "https://loremflickr.com/400/400/footwear,sneakers,business,shoes?lock=37"
+  },
+  {
+    "id": 38,
+    "name": "Fossil Wallet 38",
+    "description": "This is a high-quality Wallet from Fossil. Features include durable build and modern design.",
+    "price": 7259,
+    "category": "Accessories",
+    "image": "https://loremflickr.com/400/400/accessory,style,wallet?lock=38"
+  },
+  {
+    "id": 39,
+    "name": "Xiaomi Smartphone 39",
+    "description": "This is a high-quality Smartphone from Xiaomi. Features include durable build and modern design.",
+    "price": 35296,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,mobile,phone?lock=39"
+  },
+  {
+    "id": 40,
+    "name": "Zara Jacket 40",
+    "description": "This is a high-quality Jacket from Zara. Features include durable build and modern design.",
+    "price": 15460,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,jacket?lock=40"
+  },
+  {
+    "id": 41,
+    "name": "Puma Sneakers 41",
+    "description": "This is a high-quality Sneakers from Puma. Features include durable build and modern design.",
+    "price": 42006,
+    "category": "Footwear",
+    "image": "https://loremflickr.com/400/400/footwear,sneakers,sneakers?lock=41"
+  },
+  {
+    "id": 42,
+    "name": "Wildcraft Watch 42",
+    "description": "This is a high-quality Watch from Wildcraft. Features include durable build and modern design.",
+    "price": 96246,
+    "category": "Accessories",
+    "image": "https://loremflickr.com/400/400/accessory,style,watch?lock=42"
+  },
+  {
+    "id": 43,
+    "name": "Ray-Ban Wallet 43",
+    "description": "This is a high-quality Wallet from Ray-Ban. Features include durable build and modern design.",
+    "price": 42637,
+    "category": "Accessories",
+    "image": "https://loremflickr.com/400/400/accessory,style,wallet?lock=43"
+  },
+  {
+    "id": 44,
+    "name": "Zara Jeans 44",
+    "description": "This is a high-quality Jeans from Zara. Features include durable build and modern design.",
+    "price": 45826,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,jeans?lock=44"
+  },
+  {
+    "id": 45,
+    "name": "Reebok Sandals 45",
+    "description": "This is a high-quality Sandals from Reebok. Features include durable build and modern design.",
+    "price": 42086,
+    "category": "Footwear",
+    "image": "https://loremflickr.com/400/400/footwear,sneakers,sandals?lock=45"
+  },
+  {
+    "id": 46,
+    "name": "Apple Laptop 46",
+    "description": "This is a high-quality Laptop from Apple. Features include durable build and modern design.",
+    "price": 77498,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,computer,laptop?lock=46"
+  },
+  {
+    "id": 47,
+    "name": "Nike Sneakers 47",
+    "description": "This is a high-quality Sneakers from Nike. Features include durable build and modern design.",
+    "price": 96941,
+    "category": "Footwear",
+    "image": "https://loremflickr.com/400/400/footwear,sneakers,sneakers?lock=47"
+  },
+  {
+    "id": 48,
+    "name": "Nike Sandals 48",
+    "description": "This is a high-quality Sandals from Nike. Features include durable build and modern design.",
+    "price": 26437,
+    "category": "Footwear",
+    "image": "https://loremflickr.com/400/400/footwear,sneakers,sandals?lock=48"
+  },
+  {
+    "id": 49,
+    "name": "Ray-Ban Backpack 49",
+    "description": "This is a high-quality Backpack from Ray-Ban. Features include durable build and modern design.",
+    "price": 52776,
+    "category": "Accessories",
+    "image": "https://loremflickr.com/400/400/accessory,style,backpack?lock=49"
+  },
+  {
+    "id": 50,
+    "name": "Bata Sneakers 50",
+    "description": "This is a high-quality Sneakers from Bata. Features include durable build and modern design.",
+    "price": 9402,
+    "category": "Footwear",
+    "image": "https://loremflickr.com/400/400/footwear,sneakers,sneakers?lock=50"
+  },
+  {
+    "id": 51,
+    "name": "USPA Hoodie 51",
+    "description": "This is a high-quality Hoodie from USPA. Features include durable build and modern design.",
+    "price": 49159,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,hoodie?lock=51"
+  },
+  {
+    "id": 52,
+    "name": "OnePlus Smartphone 52",
+    "description": "This is a high-quality Smartphone from OnePlus. Features include durable build and modern design.",
+    "price": 62719,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,mobile,phone?lock=52"
+  },
+  {
+    "id": 53,
+    "name": "Wildcraft Wallet 53",
+    "description": "This is a high-quality Wallet from Wildcraft. Features include durable build and modern design.",
+    "price": 34744,
+    "category": "Accessories",
+    "image": "https://loremflickr.com/400/400/accessory,style,wallet?lock=53"
+  },
+  {
+    "id": 54,
+    "name": "Bata Sandals 54",
+    "description": "This is a high-quality Sandals from Bata. Features include durable build and modern design.",
+    "price": 9696,
+    "category": "Footwear",
+    "image": "https://loremflickr.com/400/400/footwear,sneakers,sandals?lock=54"
+  },
+  {
+    "id": 55,
+    "name": "Sony Smartwatch 55",
+    "description": "This is a high-quality Smartwatch from Sony. Features include durable build and modern design.",
+    "price": 62378,
+    "category": "Electronics",
+    "image": "https://loremflickr.com/400/400/gadget,technology,smartwatch?lock=55"
+  },
+  {
+    "id": 56,
+    "name": "USPA Dress 56",
+    "description": "This is a high-quality Dress from USPA. Features include durable build and modern design.",
+    "price": 83920,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,dress?lock=56"
+  },
+  {
+    "id": 57,
+    "name": "Reebok Sandals 57",
+    "description": "This is a high-quality Sandals from Reebok. Features include durable build and modern design.",
+    "price": 50957,
+    "category": "Footwear",
+    "image": "https://loremflickr.com/400/400/footwear,sneakers,sandals?lock=57"
+  },
+  {
+    "id": 58,
+    "name": "Wildcraft Sunglasses 58",
+    "description": "This is a high-quality Sunglasses from Wildcraft. Features include durable build and modern design.",
+    "price": 66428,
+    "category": "Accessories",
+    "image": "https://loremflickr.com/400/400/accessory,style,sunglasses?lock=58"
+  },
+  {
+    "id": 59,
+    "name": "Fossil Wallet 59",
+    "description": "This is a high-quality Wallet from Fossil. Features include durable build and modern design.",
+    "price": 33094,
+    "category": "Accessories",
+    "image": "https://loremflickr.com/400/400/accessory,style,wallet?lock=59"
+  },
+  {
+    "id": 60,
+    "name": "USPA Dress 60",
+    "description": "This is a high-quality Dress from USPA. Features include durable build and modern design.",
+    "price": 97913,
+    "category": "Clothing",
+    "image": "https://loremflickr.com/400/400/fashion,apparel,dress?lock=60"
+  }
+]
